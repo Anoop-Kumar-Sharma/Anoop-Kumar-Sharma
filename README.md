@@ -153,46 +153,35 @@ flowchart LR
 ## 💻 Highlight Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="330" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="330" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Anoop-Kumar-Sharma&repo=ADBG&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Anoop-Kumar-Sharma&repo=WinTriage&theme=tokyonight" />
 </p>
 
-* 🧠 **Custom Memory Scanner** — region walker + entropy + RWX heuristics
-* 🔍 **Handle Hijacking Detector** — cross-process handle tracing
-* ⚡ **Malware Behavior Engine** — API hooks + anomaly scoring
-* 🛡️ **DFIR Toolkit** — artifacts → timeline → report
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Anoop-Kumar-Sharma&repo=KMDrv&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Anoop-Kumar-Sharma&repo=TamperTrace&theme=tokyonight" />
+</p>
 
 ---
 
 <!-- ================= STATS ================= -->
 
-## 📊 GitHub Stats
+## 📊 DFIR Analytics Dashboard
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anoop-Kumar-Sharma&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anoop-Kumar-Sharma&theme=react-dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=700&color=00FF9C&center=true&vCenter=true&width=650&lines=Collecting+telemetry...;Analyzing+activity...;Correlating+events...;Generating+insights..." />
 </p>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-## 🧠 Quote
-
-> "Malware hides in noise. I extract the signal."
-
----
-
-## ⚠️ Disclaimer
-
-For **educational, defensive security, and DFIR purposes only**.
-
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anoop-Kumar-Sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Anoop-Kumar-Sharma&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<!-- =============== END =============== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anoop-Kumar-Sharma&theme=react-dark&hide_border=true&area=true&custom_title=DFIR%20Activity%20Timeline" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anoop-Kumar-Sharma/Anoop-Kumar-Sharma/output/snake.svg" />
+</p>
+
