@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="800" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="1000" />
 </p>
 
 ---
@@ -90,8 +90,8 @@
 ## 🛠️ DFIR Tooling
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQKk6hJ4R2/giphy.gif" width="380" />
   <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="380" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA3aWh4OGQyaGxqcHNvb2FtbjI5OTRuNGszZ2dqd3RpeWpmOGRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRZ6U2Z6MnVcUP9UkO/giphy.gif" width="380" />
 </p>
 
 ```bash
@@ -117,7 +117,7 @@
 ## 🧩 Active Research
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=500" />
 </p>
 
 ```ini
