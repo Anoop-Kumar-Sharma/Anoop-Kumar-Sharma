@@ -95,12 +95,15 @@
 </p>
 
 ```bash
-> init dfir_core
-> enumerate_processes
-> scan_memory_regions
-> detect_injection_patterns
-> extract_IOCs
-> generate_report
+[ DFIR CORE INITIALIZED ]
+
+> Enumerating processes...
+> Scanning memory regions...
+> Detecting injection patterns...
+> Extracting IOCs...
+> Generating forensic report...
+
+[ STATUS: COMPLETED ]
 ```
 
 **What I build:**
