@@ -182,6 +182,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anoop-Kumar-Sharma/Anoop-Kumar-Sharma/output/snake.svg" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Anoop-Kumar-Sharma/Anoop-Kumar-Sharma/output/github-contribution-grid-snake.svg" />
 </p>
 
