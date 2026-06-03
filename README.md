@@ -95,15 +95,15 @@
 </p>
 
 ```bash
-[ DFIR CORE INITIALIZED ]
+DFIR CORE 
 
-> Enumerating processes...
-> Scanning memory regions...
-> Detecting injection patterns...
-> Extracting IOCs...
-> Generating forensic report...
+> Enumerating processes
+> Scanning memory regions
+> Detecting injection patterns
+> Extracting IOCs
+> Generating forensic report
 
-[ STATUS: COMPLETED ]
+STATUS: COMPLETED 
 ```
 
 **What I build:**
