@@ -16,7 +16,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About Me
+##  About Me
 
 <table>
 <tr>
@@ -28,9 +28,9 @@
 + Builder of high-performance forensic tools
 ```
 
-* 🧬 I break systems to understand their internals
-* 💀 I hunt malware and reconstruct attacker behavior
-* ⚙️ I write efficient tooling in C / C++ / Python
+*  I break systems to understand their internals
+*  I hunt malware and reconstruct attacker behavior
+*  I write efficient tooling in C / C++ / Python
 
 </td>
 <td align="center">
@@ -43,7 +43,7 @@
 
 <!-- ================= STACK ================= -->
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git" />
